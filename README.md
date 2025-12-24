@@ -18,9 +18,9 @@ I focus on writing clean code, solving problems, and improving my skills through
 | Category | Details |
 |--------|--------|
 | 👨‍🎓 Degree | B.Tech – Computer Science & Engineering |
-| 🎯 CGPA | 6.9 / 10 |
+| 🎯 CGPA | 7.21 / 10 |
 | 🏆 Achievements | TCS CodeVita Global Rank 974 |
-| 💼 Experience | Web Developer Intern @ CodSoft |
+| 💼 Experience | Web Developer Intern |
 | 🌱 Currently Learning | Machine Learning, Advanced DSA |
 
 ---

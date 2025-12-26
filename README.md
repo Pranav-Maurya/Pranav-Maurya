@@ -8,7 +8,7 @@
 ## 👨‍💻 Quick Overview
 
 - 🎯 **CGPA:** 7.21 / 10  
-- 💼 **Experience:** Web Developer Intern @ CodSoft  
+- 💼 **Experience:** Web Developer Intern @ Lab Matrics  
 - 🏆 **Achievement:** TCS CodeVita Season 12 – Global Rank 974  
 - 🌱 **Currently Learning:** Machine Learning, Advanced DSA  
 

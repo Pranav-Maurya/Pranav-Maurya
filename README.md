@@ -35,9 +35,9 @@
 
 ## 📫 Connect
 
-- 💼 LinkedIn: [Click Here](https://www.linkedin.com/in/pranav-maurya/)
-- 💻 GitHub: [Click Here](https://github.com/Pranav-Maurya)
-- 📧 Email: [Click Here](mailto:pranavmaurya1234@gmail.com)
+- 💼 LinkedIn: [Click Here](https://www.linkedin.com/in/pranav-maurya/)linkedin.com/in/pranav-maurya
+- 💻 GitHub: [Click Here](https://github.com/Pranav-Maurya)github.com/Pranav-Maurya
+- 📧 Email: [Click Here](mailto:pranavmaurya1234@gmail.com)pranavmaurya1234@gmail.com
 
 ---
 
